@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SendmailApplication {
 
     public static void main(String[] args) {
+         System.out.println("hello namtv");
         SpringApplication.run(SendmailApplication.class, args);
     }
 
